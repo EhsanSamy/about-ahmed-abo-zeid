@@ -6,7 +6,7 @@ This project is a personal website dedicated to showcasing Ahmed Abu Zeid's jour
 
 ## Why I Created This Website
 
-  I built this website to improve my web development skills, create a digital portfolio, and showcase my achievements in an interactive way. It serves as a structured representation of my journey while laying the groundwork for future enhancements.
+  I built this website to improve my web development skills, create a digital portfolio, and showcase Ahmed Abo Zeid achievements in an interactive way. It serves as a structured representation of his journey while laying the groundwork for future enhancements.
 
   ## Features
 
